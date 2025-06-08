@@ -20,3 +20,4 @@ Congrats! Your all setup, please keep in mind that this might get taken down, Ac
 Preferably do this on a alt account.
 
 Feel free to join my discord server, https://discord.gg/rewindogfn (were hosting OG Fortnite Chapter 3 Season 1).
+![image](https://github.com/user-attachments/assets/68116fde-15ff-4c9e-89a7-f4afdbfec39c)
