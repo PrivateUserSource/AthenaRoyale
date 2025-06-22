@@ -3,8 +3,11 @@ Play with fire, and watch the whole thing burn.
 
 Well jorrd, as i stated before. Take it down and i'll opensource it. So as you requested, here you go.
 
+**UPDATE: Added full original src code, last updated at around april.**
+
 Files included in this source:
 - Gameplay.rbxl: Gameplay (ingame)
+- Full.rbxl: Original Gameplay Source (ingame)
 - Main.rbxl: Main Place (Lobby)
 
 Instructions:
@@ -21,3 +24,8 @@ Preferably do this on a alt account.
 
 Feel free to join my discord server, https://discord.gg/rewindogfn (were hosting OG Fortnite Chapter 3 Season 1).
 ![image](https://github.com/user-attachments/assets/68116fde-15ff-4c9e-89a7-f4afdbfec39c)
+
+# Jorrd Shitpost :D
+It ain't a group of people bud, its just me. Stop getting other people involved into it, I told you if you took it down i'll opensource it.
+Not to mention the fact you banned me FOR LEAVING THE SERVER. I get it, you have mental issues which is okay, but don't work it out on other people you don't even know. This is simply what you get from acting like that.
+![image](https://github.com/user-attachments/assets/3c0a33e8-69cb-470a-bc58-f60a9e05b49c)
